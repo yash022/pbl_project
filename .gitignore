@@ -1,0 +1,10 @@
+# MPMS - Major Project Management System
+
+> Manipal University Jaipur — PBL Workflow Digitization Platform
+
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+Thumbs.db
